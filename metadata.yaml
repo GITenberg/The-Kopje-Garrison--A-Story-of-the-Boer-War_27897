@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27897#The-Kopje-Garrison--A-Story-of-the-Boer-War
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2009-01-26'
 gutenberg_type: Text
